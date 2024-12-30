@@ -60,7 +60,9 @@ To run Recipe-Holic, ensure you have the following:
 Recipe-Holic leverages the following technologies:  
 - **Angular/TypeScript** for building a robust front-end application.  
 - **HTML** for structuring web content.  
-- **Figma** for designing a sleek and user-friendly interface.  
+- **Figma** for designing a sleek and user-friendly interface.
+- **Firebase** for database authentication, authorization and storing.
+- **PrimeNG** for rich components usage.  
 
 ---
 
