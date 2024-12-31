@@ -38,7 +38,7 @@ To run Recipe-Holic, ensure you have the following:
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/Recipe-Holic.git  
+   git clone https://github.com/MohammedEssamJr/Recipe-holic.git  
    cd Recipe-Holic  
    ```  
 2. Install the dependencies:  
@@ -70,7 +70,7 @@ We welcome contributions! To contribute, fork the repository and create a pull r
 ---
 
 ## 🐛 Issues  
-Encounter an issue or have a feature request? Please [open an issue](https://github.com/Diivxblo/Recipe-holic/issues).  
+Encounter an issue or have a feature request? Please [open an issue](https://github.com/MohammedEssamJr/Recipe-holic/issues).  
 
 ---
 
